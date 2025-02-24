@@ -3,7 +3,7 @@ import customCheckboxRadioSwitch from "/styles/jss/nextjs-material-kit/customChe
 
 const basicsStyle = {
   sections: {
-    backgroundColor: "#1a237e",
+    backgroundColor: "#1b5e20",
     padding: "70px 0"
   },
   container,
